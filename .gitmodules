@@ -1,0 +1,9 @@
+[submodule "Autoscaling/autoscaling"]
+	path = Autoscaling/autoscaling
+	url = https://github.com/EtienneM/scalingo_autoscaling
+[submodule "Autoscaling/http_loader"]
+	path = Autoscaling/http_loader
+	url = https://github.com/EtienneM/http_loader
+[submodule "Autoscaling/http_charger"]
+	path = Autoscaling/http_charger
+	url = https://github.com/EtienneM/http_charger
